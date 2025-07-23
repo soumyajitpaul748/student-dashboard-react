@@ -13,7 +13,7 @@ This app allows users to:
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://your-image-hosting-link.com/screenshot.png)
+![Dashboard Screenshot](https://sweet-kitsune-c3702e.netlify.app)
 
 
 ## 🛠️ Tech Stack
