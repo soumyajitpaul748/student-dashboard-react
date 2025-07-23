@@ -1,3 +1,4 @@
+
 # 🎓 Student Dashboard – React + Tailwind CSS
 
 A responsive student dashboard web application built using **ReactJS** and **Tailwind CSS**.
@@ -13,7 +14,7 @@ This app allows users to:
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/soumyajitpaul748/student-dashboard/main/assets/dashboard.png)
+![Dashboard Screenshot]<img width="1917" height="1078" alt="Screenshot 2025-07-23 222853" src="https://github.com/user-attachments/assets/c9ff688b-ba6e-4c48-b58d-7a4ac309be65" />
 
 
 
