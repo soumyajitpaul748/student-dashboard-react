@@ -9,7 +9,7 @@ This app allows users to:
 - 🖥️ Enjoy a responsive and clean UI using TailwindCSS
 
 ## 🚀 Live Demo
-🔗 [Click here to view the project](eclectic-daifuku-270913.netlify.app)
+🔗 [Click here to view the project](https://sweet-kitsune-c3702e.netlify.app)
 
 ## 📸 Screenshots
 
