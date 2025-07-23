@@ -13,7 +13,8 @@ This app allows users to:
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://sweet-kitsune-c3702e.netlify.app)
+![Dashboard Screenshot](https://raw.githubusercontent.com/soumyajitpaul748/student-dashboard/main/assets/dashboard.png)
+
 
 
 ## 🛠️ Tech Stack
